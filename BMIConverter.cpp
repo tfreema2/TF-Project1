@@ -4,6 +4,7 @@
 #include "BMIConverter.h"
 
 BMIConverter::BMIConverter(): height(0), weight(0) {}
+
 BMIConverter::BMIConverter(double height, double weight) {
     this->height= height;
     this->weight= weight;
@@ -24,6 +25,7 @@ int BMIConverter::getBMIRank() {
 }
 void BMIConverter::BMIRank(){
     calculateBMI();
+    //assign rank based on BMI
     if (BMI <= 18){
         rankBMI= 1;
     }
