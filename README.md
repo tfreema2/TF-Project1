@@ -1,4 +1,5 @@
-#TF-Project1
+# TF-Project1
+
 TF-Project1-Style1 Branch uses Egyptian-style braces, Camel case, RME documentation, and variable without preﬁxes 
 TF-Project1-Style2 Branch uses Hanging braces, Snake case, Top-of-ﬁle documentation, and variable with prefixes
 Between the two different ways that I prefer the styles that I used in TF-Project1-Style1 (Egyptian-style braces, Camel case,
